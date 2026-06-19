@@ -1,0 +1,20 @@
+# Captures IQ (volumineuses, non versionnées)
+*.cs8
+*.cf32
+*.fc32
+
+# Fichiers .sub Flipper (générés par scripts/make_*.py, reproductibles)
+*.sub
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# OS / éditeurs
+.DS_Store
+.idea/
+.vscode/
