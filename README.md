@@ -33,7 +33,7 @@ pytest -q          # 9 tests : démod, analyse différentielle, AES-128 (FIPS-19
 ```
 
 Outils système : `hackrf` (hackrf_transfer, hackrf_sweep). Optionnel : `gqrx`
-(waterfall), **Universal Radio Hacker (URH)** (inspection visuelle).
+(waterfall), **cd .(URH)** (inspection visuelle).
 
 ## Démarrage rapide — boucle de test au Flipper Zero
 
